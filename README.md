@@ -61,9 +61,9 @@ In this Project There are 2 Scenarios
    ![image](https://github.com/chamathf/Test_Assignment/assets/17542846/1034cabc-31f7-4b7f-9565-d8c52f143c8b)
 
    To test this scenario I created Three new emails you can use these emails or you could use your own emails which is not previously registered.
-   c3768773@gmail.com ,
-   c57177693@gmail.com , 
-   chamath551@gmail.com ,
+
+   #### New Emails
+   c3768773@gmail.com , c57177693@gmail.com  , chamath551@gmail.com 
 
 4. Enter First Name
    ![image](https://github.com/chamathf/Test_Assignment/assets/17542846/ae6302c3-42e9-4a50-a2ff-e1ef36bb12df)
