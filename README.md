@@ -60,28 +60,28 @@ In this Project There are 2 Scenarios
 2. Enter New Email which is Not Previously registered for this Application
    ![image](https://github.com/chamathf/Test_Assignment/assets/17542846/1034cabc-31f7-4b7f-9565-d8c52f143c8b)
 
-	 To test this scenario I created Three new emails you can this or you could use your own emails
+   To test this scenario I created Three new emails you can use these emails or you could use your own emails which is not previously registered.
    c3768773@gmail.com ,
    c57177693@gmail.com , 
    chamath551@gmail.com ,
 
-3. Enter First Name
+4. Enter First Name
    ![image](https://github.com/chamathf/Test_Assignment/assets/17542846/ae6302c3-42e9-4a50-a2ff-e1ef36bb12df)
 
-4. Enter Password
+5. Enter Password
 
 	 ![image](https://github.com/chamathf/Test_Assignment/assets/17542846/543ae219-79c9-4a75-906f-9169c6239ea1)
 
-5. Enter Ring Size
+6. Enter Ring Size
 
 	 ![image](https://github.com/chamathf/Test_Assignment/assets/17542846/ab6ef0d0-a952-4364-add0-754a5343b583)
 
-6. Change The Brower which you need to run this Automation
+7. Change The Brower which you need to run this Automation
    ![image](https://github.com/chamathf/Test_Assignment/assets/17542846/5f8df191-5b66-47fd-8287-e45b441862bd)
 
    Note:- I tested this for Chrome and Firefox 
 
-7. Go to the Test Class SignUpAndPurchaseTest.java (java/org/test/SignUpAndPurchaseTest.java) and Run This test Case
+8. Go to the Test Class SignUpAndPurchaseTest.java (java/org/test/SignUpAndPurchaseTest.java) and Run This test Case
    ![image](https://github.com/chamathf/Test_Assignment/assets/17542846/e59e87f0-323a-415b-be5a-6ecb7e4fdbec)
 
     ![image](https://github.com/chamathf/Test_Assignment/assets/17542846/ad44b0b0-c35b-4aea-a9ec-36cbe5263406)
