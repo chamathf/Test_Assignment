@@ -1,9 +1,8 @@
 package org.pages;
 
-import com.codeborne.selenide.WebDriverRunner;
 import org.openqa.selenium.By;
 
-public class SignInPage {
+public class SignUpPage {
 
     protected static By txtName = By.xpath("//input[@name='name']");
 

@@ -1,7 +1,7 @@
 package org.function;
 
 
-import org.pages.SignInPage;
+import org.pages.SignUpPage;
 
 
 import java.util.logging.Logger;
@@ -9,8 +9,8 @@ import java.util.logging.Logger;
 import static com.codeborne.selenide.Selenide.$;
 
 
-public class SignInFunction extends SignInPage {
-    public static Logger logger = Logger.getLogger(SignInFunction.class.getName());
+public class SignUpFunction extends SignUpPage {
+    public static Logger logger = Logger.getLogger(SignUpFunction.class.getName());
 
     //This Method Use for Type the Name In SignIn Section
     public static void enterName(String name) throws InterruptedException {

@@ -5,7 +5,7 @@ public class Constants {
     public static final String BROWSER_NAME = System.getProperty("selenide.browser" ,"chrome"); // User Can Change the Browser By Changing the def: "chrome" or "firefox"
 
     public static final String APP_URL = System.getProperty("app.url" ,"https://mejuri.com/world/en/");
-    public static final String EMAIL= System.getProperty("account.email","cmfernando654@gmail.com"); // User Can Change the Email By Changing the def:
+    public static final String EMAIL= System.getProperty("account.email","c97180123@gmail.com"); // User Can Change the Email By Changing the def:
 
     public static final String USER_NAME=System.getProperty("User.name" ,"Chamath").toUpperCase(); // User Can Change the User_Name By Changing the def:
     public static final String PASSWORD= System.getProperty("account.password","Malaka@123"); // User Can Change the Password By Changing the def:

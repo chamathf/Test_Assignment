@@ -5,16 +5,16 @@ import org.common.Constants;
 import org.function.ItemPurchasingFunction;
 import org.function.ItemSearchFunction;
 import org.function.LoginFunction;
-import org.function.SignInFunction;
+import org.function.SignUpFunction;
 import org.junit.jupiter.api.Test;
 
 
-public class SignInAndPurchaseTest {
+public class SignUpAndPurchaseTest {
 
     // Test case: Purchase,Validate Item Purchasing Via SignIn To The Application
 
     @Test
-    public void SignInPurchaseAndValidateTest() throws InterruptedException {
+    public void SignUpPurchaseAndValidateTest() throws InterruptedException {
 
 
         SoftAssertions softAssertions =new SoftAssertions();
@@ -23,10 +23,10 @@ public class SignInAndPurchaseTest {
         LoginFunction.clickLoginButton();
         LoginFunction.enterEmail(Constants.EMAIL);
         LoginFunction.clickContinueButton();
-        SignInFunction.enterName(Constants.USER_NAME);
-        SignInFunction.enterPassword(Constants.PASSWORD);
-        SignInFunction.selectCheckBox();
-        SignInFunction.clickSubmitButton();
+        SignUpFunction.enterName(Constants.USER_NAME);
+        SignUpFunction.enterPassword(Constants.PASSWORD);
+        SignUpFunction.selectCheckBox();
+        SignUpFunction.clickSubmitButton();
         LoginFunction.clickUserButton();
         String userProfileName=LoginFunction.getUserName();
         softAssertions.assertThat(userProfileName).isEqualTo(Constants.ACCOUNT_NAME);
