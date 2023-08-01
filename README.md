@@ -2,9 +2,9 @@
 
 This Project Contest With Three Layers
 
-1. Page Layer - All the Page related xpaths are in this page ex- LoginPage.java,SignupPage.javaetc.
-2. Function Layers - All the Function related activities such as click events, type events are in this layer ex-LoginFunction.java, SignUpFunction.java
-3. Test Layer - Test Cases are written in this Layer - LoginAndPurchaseTest.java , SignUpAndPurchaseTest.java
+1. Page Layer - All the Page related xpaths are in this page ex- LoginPage.java,SignupPage.java  etc.
+2. Function Layers - All the Function related activities such as click events, type events are in this layer ex-LoginFunction.java, SignUpFunction.java  etc
+3. Test Layer - Test Cases are written in this Layer - LoginAndPurchaseTest.java , SignUpAndPurchaseTest.java  etc
 
 In this Project There are 2 Scenarios
 
